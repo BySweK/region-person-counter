@@ -10,9 +10,9 @@ YOLO11 ve nesne takibi kullanarak bir videoda belirlenen dikdörtgen bölgeye gi
 - Bölgede biri varsa bölge çerçevesi de yeşile döner
 - Ekranda bölgeye giren toplam kişi sayısı gösterilir
 
-<!-- Buraya çalışırken alınmış bir ekran görüntüsü veya GIF ekle:
-![Demo](demo.gif)
--->
+
+![Demo](ss.png)
+
 
 ## Nasıl Çalışır?
 
