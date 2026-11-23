@@ -11,7 +11,7 @@ YOLO11 ve nesne takibi kullanarak bir videoda belirlenen dikdörtgen bölgeye gi
 - Ekranda bölgeye giren toplam kişi sayısı gösterilir
 
 
-![DEMO](ss.png)
+![DEMO](demo.png)
 
 
 ## Nasıl Çalışır?
