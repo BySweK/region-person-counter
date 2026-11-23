@@ -31,18 +31,18 @@ pip install -r requirements.txt
 ## Kullanım
 
 1. Kendi videonu `Videolar/` klasörüne koy (bu klasör repoya dahil değildir).
-2. `bolge_sayac.py` içindeki `VIDEO_YOLU` değişkenini kendi videonun yoluna göre düzenle.
+2. `main2.py` içindeki `VIDEO_YOLU` değişkenini kendi videonun yoluna göre düzenle.
 3. Çalıştır:
 
 ```bash
-python bolge_sayac.py
+python main2.py
 ```
 
 Çıkmak için `q` tuşuna bas. YOLO model dosyası (`yolo11n.pt`) ilk çalıştırmada otomatik indirilir.
 
 ## Bölgeyi Değiştirme
 
-Bölge, kare boyutuna oranla `bolge_sayac.py` içinde tanımlıdır:
+Bölge, kare boyutuna oranla `main2.py` içinde tanımlıdır:
 
 ```python
 x1 = int(w * 0.28)
