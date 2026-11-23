@@ -1,0 +1,15 @@
+# Video ve model dosyaları
+Videolar/
+*.mp4
+*.avi
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editör
+.vscode/
+.idea/
